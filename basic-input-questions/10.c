@@ -1,5 +1,5 @@
-// // C program to print double Back Slash (\) on screen
-// // 👉 Output => \\
+// // C program to print Tab character '\t' on screen.
+// // 👉 Output => \t
 
 // // Header files
 #include <stdio.h>
@@ -8,7 +8,8 @@
 int main()
 {
 
-    printf(" \\\\");
+    printf(" \\t ");
+
     return 0;
 }
 // // Main Function End

@@ -1,5 +1,5 @@
-// // C program to print double Back Slash (\) on screen
-// // 👉 Output => \\
+// // C program to print Percent symbol (%) on screen
+// // 👉 Output => %
 
 // // Header files
 #include <stdio.h>
@@ -8,7 +8,8 @@
 int main()
 {
 
-    printf(" \\\\");
+    printf(" %% ");
+
     return 0;
 }
 // // Main Function End

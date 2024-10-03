@@ -1,5 +1,5 @@
-// // C program to print double Back Slash (\) on screen
-// // 👉 Output => \\
+// // C program to print (%d) on screen
+// // 👉 Output => %d
 
 // // Header files
 #include <stdio.h>
@@ -8,7 +8,8 @@
 int main()
 {
 
-    printf(" \\\\");
+    printf(" %%d ");
+
     return 0;
 }
 // // Main Function End
