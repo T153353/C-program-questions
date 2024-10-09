@@ -12,7 +12,7 @@ To clone this repository to your local machine, follow the steps:
 3.Use the `git clone` command followed by the copied repository URL.
 
 For HTTPS:
-  https://github.com/T153353/C-program-questions.git
+  https://github.com/Taran153/C-program-questions.git
 
 ## Usage ##
 
