@@ -16,7 +16,8 @@ For HTTPS:
 
 ## Usage ##
 
-1. Navigate to the root directory of the project.
-2. Run the command `make run` to start the program.
-3. Follow the on-screen instructions to answer the questions.
+1. Navigate to the folder containing the program you want to run.
+2. Compile it using gcc filename.c or gcc filenamec -lib1 -lib2 to link libraries
+4. Execute it by typing ./a.out  on Linux and a.exe on Windows
+4. Follow the on-screen instructions to answer the questions.
 
